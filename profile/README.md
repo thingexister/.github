@@ -1,3 +1,3 @@
-## Things That Might Exist
+## ThingExister
 
-This is an organisation that turns some Things That Might Exist into Things That Do Exist.
+This is an organisation that makes Things that do not exist into Things that do.
